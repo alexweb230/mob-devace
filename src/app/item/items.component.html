@@ -1,16 +1,17 @@
 
-<ActionBar title=""  class="action-bar">
-
+<ActionBar title="app"  class="action-bar">
+    <!--<ActionItem text="left item" ios.position="left"></ActionItem>-->
+    <!--<ActionItem text="Item" ios.position="right" android.position="popup"></ActionItem>-->
+    <!--<ActionItem>-->
+        <!--<Label class="m-5" text="Custom item" color="#8C489F"></Label>-->
+    <!--</ActionItem>-->
+    <!--<ActionItem ios.systemIcon="12" android.systemIcon="ic_menu_search"></ActionItem>-->
+    <NavigationButton icon="res://ic_arrow_back_black_24dp" (tap)="goBack()"></NavigationButton>
+    <Image src="https://picsum.photos/200/300" stretch="none" class="img-rounded p-l-15 p-r-15 p-t-15"></Image>
+    <ActionItem ios.systemIcon="12" android.systemIcon="ic_menu_search"></ActionItem>
 </ActionBar>
 
+<SearchBar hint="Search hint" [text]="searchPhrase" (textChange)="onTextChanged($event)" (submit)="onSubmit($event)"
+           color="white" textFieldBackgroundColor="red" textFieldHintColor="white"></SearchBar>
 
-<StackLayout class="page">
-    <ListView [items]="it" class="list-group">
-        <ng-template let-item="item">
-            <Label [nsRouterLink]="['/item', item.id]" [text]="item.name"
-                class="list-group-item"></Label>
 
-        </ng-template>
-
-    </ListView>
-</StackLayout>
