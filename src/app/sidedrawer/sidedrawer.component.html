@@ -1,8 +1,6 @@
 <RadSideDrawer tkExampleTitle tkToggleNavButton>
     <StackLayout tkDrawerContent class="sideStackLayout">
-        <StackLayout class="sideTitleStackLayout">
-            <Label text="Navigation Menu"></Label>
-        </StackLayout>
+
         <ScrollView>
             <StackLayout class="sideStackLayout">
                 <Label text="Primary" class="sideLabel sideLightGrayLabel"></Label>
@@ -18,7 +16,7 @@
         </ScrollView>
     </StackLayout>
     <StackLayout tkMainContent>
-        <Label [text]="mainContentText" textWrap="true" class="drawerContentText"></Label>
+
         <Button text="OPEN DRAWER" (tap)="openDrawer()" class="drawerContentButton"></Button>
     </StackLayout>
 </RadSideDrawer>
