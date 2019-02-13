@@ -9,6 +9,7 @@ import { HomeComponent } from './home/home.component';
 import {NativeScriptUISideDrawerModule} from "nativescript-ui-sidedrawer/angular";
 import { SidedrawerComponent } from './sidedrawer/sidedrawer.component';
 import { BottomnavComponent } from './bottomnav/bottomnav.component';
+import {NativescriptBottomNavigationModule} from "nativescript-bottom-navigation/angular";
 
 
 // Uncomment and add to NgModule imports if you need to use two-way binding
@@ -24,7 +25,8 @@ import { BottomnavComponent } from './bottomnav/bottomnav.component';
     imports: [
         NativeScriptModule,
         AppRoutingModule,
-        NativeScriptUISideDrawerModule
+        NativeScriptUISideDrawerModule,
+        NativescriptBottomNavigationModule
     ],
     declarations: [
         AppComponent,
