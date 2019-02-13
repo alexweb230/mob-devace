@@ -1,6 +1,33 @@
-<ActionBar title="">
-    <NavigationButton android.systemIcon="ic_menu_back"></NavigationButton>
-    <ns-sidedrawer></ns-sidedrawer>
-
-</ActionBar>
-
+<GridLayout rows="auto, * ,50" class="page">
+    <GridLayout>
+        <ActionBar title="">
+            <NavigationButton android.systemIcon="ic_menu_back"></NavigationButton>
+        </ActionBar>
+    </GridLayout>
+    <GridLayout row="2" class="bottom-nav-bar" columns="*,*,*,*">
+        <Label
+                textAlignment="center"
+                horizontalAlignment="center"
+                text="1"
+                col="0">
+        </Label>
+        <Label
+                textAlignment="center"
+                horizontalAlignment="center"
+                text="1"
+                col="1">
+        </Label>
+        <Label
+                textAlignment="center"
+                horizontalAlignment="center"
+                text="1"
+                col="2">
+        </Label>
+        <Label
+                textAlignment="center"
+                horizontalAlignment="center"
+                text="1"
+                col="3">
+        </Label>
+    </GridLayout>
+</GridLayout>
