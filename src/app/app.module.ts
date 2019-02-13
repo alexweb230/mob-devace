@@ -8,6 +8,7 @@ import { ItemDetailComponent } from "./item/item-detail.component";
 import { HomeComponent } from './home/home.component';
 import {NativeScriptUISideDrawerModule} from "nativescript-ui-sidedrawer/angular";
 import { SidedrawerComponent } from './sidedrawer/sidedrawer.component';
+import { BottomnavComponent } from './bottomnav/bottomnav.component';
 
 
 // Uncomment and add to NgModule imports if you need to use two-way binding
@@ -31,6 +32,7 @@ import { SidedrawerComponent } from './sidedrawer/sidedrawer.component';
         ItemDetailComponent,
         HomeComponent,
         SidedrawerComponent,
+        BottomnavComponent,
 
     ],
     providers: [],
