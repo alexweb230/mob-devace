@@ -1,9 +1,32 @@
 <GridLayout rows="auto, * ,50" class="page">
     <GridLayout>
-        <ActionBar title="">
-            <NavigationButton android.systemIcon="ic_menu_back"></NavigationButton>
+        <ActionBar>
+
+            <GridLayout row="1" class="main-nav-panel" columns="*,*">
+                <Label
+                        textAlignment="center"
+                        horizontalAlignment="center"
+                        class="btn-nav"
+                        width="96px"
+                        height="32px"
+                        col="0">
+                    <!--<Image src="~/assets/img/png/logo.png" width="150px" height="50px" class="bor"></Image>-->
+                </Label>
+
+                <Label
+                        textAlignment="center"
+                        horizontalAlignment="center"
+                        width="32px"
+                        height="32px"
+                        class="logo"
+                        col="1">
+                </Label>
+            </GridLayout>
+
+
         </ActionBar>
     </GridLayout>
+
 
     <!--bottom-nav-->
     <ns-bottomnav></ns-bottomnav>

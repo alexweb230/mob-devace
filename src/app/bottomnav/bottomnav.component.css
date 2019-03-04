@@ -3,3 +3,14 @@
     background-color: #051E52;
     color: white;
 }
+
+Label{
+    background-color: red;
+    width: 70px;
+    height: 70px;
+}
+
+.bottom-nav-item{
+    background-color: red;
+    background-size: cover;
+}
