@@ -1,30 +1,31 @@
 <GridLayout rows="auto, * ,50" class="page">
     <GridLayout>
         <ActionBar>
-
             <GridLayout row="1" class="main-nav-panel" columns="*,*">
                 <Label
                         textAlignment="center"
-                        horizontalAlignment="center"
+                        horizontalAlignment="left"
                         class="btn-nav"
                         width="96px"
                         height="32px"
                         col="0">
-                    <!--<Image src="~/assets/img/png/logo.png" width="150px" height="50px" class="bor"></Image>-->
                 </Label>
 
                 <Label
                         textAlignment="center"
-                        horizontalAlignment="center"
+                        horizontalAlignment="right"
                         width="32px"
                         height="32px"
                         class="logo"
                         col="1">
                 </Label>
             </GridLayout>
-
-
         </ActionBar>
+        <FlexboxLayout justifyContent="space-around" class="land">
+            <Label text="русский" class="land-item active"></Label>
+            <Label text="український" class="land-item"></Label>
+            <Label text="english" class="land-item"></Label>
+        </FlexboxLayout>
     </GridLayout>
 
 
