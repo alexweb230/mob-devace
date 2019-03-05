@@ -1,10 +1,7 @@
 import { NgModule, NO_ERRORS_SCHEMA } from "@angular/core";
 import { NativeScriptModule } from "nativescript-angular/nativescript.module";
-
 import { AppRoutingModule } from "./app-routing.module";
 import { AppComponent } from "./app.component";
-import { ItemsComponent } from "./item/items.component";
-import { ItemDetailComponent } from "./item/item-detail.component";
 import { HomeComponent } from './home/home.component';
 import {NativeScriptUISideDrawerModule} from "nativescript-ui-sidedrawer/angular";
 import { SidedrawerComponent } from './sidedrawer/sidedrawer.component';
@@ -30,8 +27,6 @@ import { BottomnavComponent } from './bottomnav/bottomnav.component';
     ],
     declarations: [
         AppComponent,
-        ItemsComponent,
-        ItemDetailComponent,
         HomeComponent,
         SidedrawerComponent,
         BottomnavComponent,

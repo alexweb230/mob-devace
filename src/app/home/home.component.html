@@ -1,36 +1,40 @@
-<GridLayout rows="auto, * ,50" class="page">
-    <GridLayout>
-        <ActionBar>
-            <GridLayout row="" class="main-nav-panel" columns="*,*">
-                <Label
-                        textAlignment="center"
-                        horizontalAlignment="left"
-                        class="btn-nav"
-                        width="96px"
-                        height="32px"
-                        col="0">
-                </Label>
+<GridLayout rows="auto, * ,50" class="page" height="100%">
+    <ActionBar>
+        <GridLayout row="" class="main-nav-panel" columns="*,*">
+            <Label
+                    textAlignment="center"
+                    horizontalAlignment="left"
+                    class="btn-nav"
+                    width="96px"
+                    height="32px"
+                    col="0">
+            </Label>
 
-                <Label
-                        textAlignment="center"
-                        horizontalAlignment="right"
-                        width="32px"
-                        height="32px"
-                        class="logo"
-                        col="1">
-                </Label>
-            </GridLayout>
-        </ActionBar>
-        <FlexboxLayout justifyContent="space-around" class="land">
+            <Label
+                    textAlignment="center"
+                    horizontalAlignment="right"
+                    width="32px"
+                    height="32px"
+                    class="logo"
+                    col="1">
+            </Label>
+        </GridLayout>
+    </ActionBar>
+    <FlexboxLayout justifyContent="space-around" class="land">
+        <Label text="русский" class="land-item active"></Label>
+        <Label text="український" class="land-item"></Label>
+        <Label text="english" class="land-item"></Label>
+    </FlexboxLayout>
+
+    <ScrollView backgroundColor="silver" row="1">
+        <StackLayout orientation="vertical">
+            <VideoPlayer id="nativeVideoPlayer" controls="true" autoplay="true" height="300" src="https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></VideoPlayer>
+
+
             <Label text="русский" class="land-item active"></Label>
-            <Label text="український" class="land-item"></Label>
-            <Label text="english" class="land-item"></Label>
-        </FlexboxLayout>
-    </GridLayout>
-    <!--<ScrollView backgroundColor="#e8e7e7">-->
 
-    <!--</ScrollView>-->
-
+        </StackLayout>
+    </ScrollView>
 
 
     <!--bottom-nav-->
