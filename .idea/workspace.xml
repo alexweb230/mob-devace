@@ -2,402 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824a68b9-da6e-4e83-ac2d-6e2a7125455e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/anymatch/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/anymatch/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/anymatch/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/anymatch/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/arr-diff/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/arr-diff/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/arr-diff/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/arr-diff/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/array-unique/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/array-unique/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/array-unique/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/array-unique/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/braces/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/braces/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/braces/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/braces/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/expand-brackets/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/expand-brackets/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/expand-brackets/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/expand-brackets/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/extglob/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/extglob/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/extglob/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/extglob/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/glob-parent/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/glob-parent/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/glob-parent/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/glob-parent/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/glob-parent/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/glob-parent/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/glob-parent/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/is-extglob/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/is-extglob/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/is-extglob/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/is-extglob/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/is-glob/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/is-glob/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/is-glob/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/is-glob/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/kind-of/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/kind-of/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/kind-of/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/kind-of/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/micromatch/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/micromatch/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/micromatch/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/micromatch/lib/chars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/micromatch/lib/expand.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/micromatch/lib/glob.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/micromatch/lib/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/micromatch/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/bundle.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/builtin-modules/builtin-modules.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/builtin-modules/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/builtin-modules/license" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/builtin-modules/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/builtin-modules/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/builtin-modules/static.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/fill-range/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/fill-range/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/fill-range/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/fill-range/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/is-number/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/is-number/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/is-number/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/is-number/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/isobject/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/isobject/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/isobject/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/isobject/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/kind-of/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/kind-of/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/kind-of/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/kind-of/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/expand-range/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/filename-regex/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/filename-regex/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/filename-regex/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/filename-regex/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/glob-parent/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/glob-parent/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/glob-parent/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/glob-parent/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/glob-parent/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/glob-parent/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/glob-parent/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/is-extglob/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/is-extglob/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/is-extglob/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/is-extglob/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/is-glob/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/is-glob/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/is-glob/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/node_modules/is-glob/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob-base/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-builtin-module/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-builtin-module/license" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-builtin-module/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-builtin-module/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-dotfile/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-dotfile/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-dotfile/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-dotfile/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-equal-shallow/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-equal-shallow/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-equal-shallow/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-equal-shallow/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-posix-bracket/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-posix-bracket/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-posix-bracket/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-posix-bracket/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-primitive/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-primitive/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-primitive/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/is-primitive/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/math-random/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/math-random/browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/math-random/node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/math-random/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/math-random/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/math-random/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/object.omit/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/object.omit/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/object.omit/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/object.omit/node_modules/for-own/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/object.omit/node_modules/for-own/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/object.omit/node_modules/for-own/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/object.omit/node_modules/for-own/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/object.omit/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/node_modules/is-extglob/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/node_modules/is-extglob/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/node_modules/is-extglob/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/node_modules/is-extglob/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/node_modules/is-glob/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/node_modules/is-glob/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/node_modules/is-glob/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/node_modules/is-glob/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parse-glob/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/preserve/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/preserve/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/preserve/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/preserve/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/preserve/.verb.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/preserve/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/preserve/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/preserve/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/preserve/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/preserve/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/randomatic/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/randomatic/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/randomatic/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/randomatic/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regex-cache/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regex-cache/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regex-cache/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regex-cache/package.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/ivy-ngcc" afterPath="$PROJECT_DIR$/node_modules/.bin/ivy-ngcc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/ng-xi18n" afterPath="$PROJECT_DIR$/node_modules/.bin/ng-xi18n" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/ngc" afterPath="$PROJECT_DIR$/node_modules/.bin/ngc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/ngtools2.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/ngtools2.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/ngtools2.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/ngtools2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/README.md" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/lib/fsevents-handler.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/lib/fsevents-handler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/lib/nodefs-handler.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/lib/nodefs-handler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/package.json" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/chokidar/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/package.json" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_diagnostics.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_diagnostics.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_diagnostics.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_diagnostics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_type.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_type.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_type.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/expression_type.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/symbols.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/symbols.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/symbols.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/symbols.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/translate_diagnostics.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/translate_diagnostics.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/translate_diagnostics.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/translate_diagnostics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/typescript_symbols.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/typescript_symbols.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/typescript_symbols.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/typescript_symbols.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/typescript_version.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/typescript_version.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/typescript_version.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/diagnostics/typescript_version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/extract_i18n.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/extract_i18n.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/extract_i18n.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/extract_i18n.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/language_services.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/language_services.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/language_services.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/language_services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/main.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/main.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/main.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/bundle_index_host.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/bundle_index_host.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/bundle_index_host.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/bundle_index_host.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/bundler.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/bundler.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/bundler.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/bundler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/collector.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/collector.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/collector.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/collector.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/evaluator.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/evaluator.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/evaluator.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/evaluator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/index_writer.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/index_writer.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/index_writer.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/index_writer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/schema.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/schema.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/schema.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/schema.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/symbols.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/symbols.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/symbols.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/metadata/symbols.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/main-ngcc.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/main-ngcc.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/main-ngcc.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/main-ngcc.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/analysis/decoration_analyzer.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/analysis/decoration_analyzer.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/analysis/decoration_analyzer.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/analysis/decoration_analyzer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/analysis/switch_marker_analyzer.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/analysis/switch_marker_analyzer.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/analysis/switch_marker_analyzer.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/analysis/switch_marker_analyzer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/constants.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/constants.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/constants.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/constants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/decorated_class.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/decorated_class.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/decorated_class.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/decorated_class.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/esm2015_host.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/esm2015_host.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/esm2015_host.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/esm2015_host.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/esm5_host.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/esm5_host.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/esm5_host.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/esm5_host.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/ngcc_host.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/ngcc_host.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/ngcc_host.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/host/ngcc_host.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/main.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/main.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/main.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/build_marker.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/build_marker.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/build_marker.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/build_marker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/dependency_host.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/dependency_host.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/dependency_host.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/dependency_host.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/dependency_resolver.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/dependency_resolver.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/dependency_resolver.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/dependency_resolver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/entry_point.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/entry_point.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/entry_point.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/entry_point.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/entry_point_finder.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/entry_point_finder.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/entry_point_finder.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/entry_point_finder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/transformer.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/transformer.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/transformer.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/packages/transformer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/esm5_renderer.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/esm5_renderer.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/esm5_renderer.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/esm5_renderer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/esm_renderer.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/esm_renderer.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/esm_renderer.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/esm_renderer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/ngcc_import_manager.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/ngcc_import_manager.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/ngcc_import_manager.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/ngcc_import_manager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/renderer.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/renderer.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/renderer.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/rendering/renderer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/utils.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/utils.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/utils.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngcc/src/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_api.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_api.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_api.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_api.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_api2.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_api2.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_api2.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtools_api2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/api.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/api.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/api.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/api.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/base_def.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/base_def.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/base_def.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/base_def.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/component.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/component.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/component.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/directive.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/directive.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/directive.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/directive.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/injectable.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/injectable.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/injectable.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/injectable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/metadata.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/metadata.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/metadata.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/metadata.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/ng_module.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/ng_module.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/ng_module.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/ng_module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/pipe.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/pipe.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/pipe.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/pipe.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/selector_scope.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/selector_scope.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/selector_scope.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/selector_scope.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/util.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/util.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/util.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/annotations/src/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/code.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/code.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/code.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/code.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/error.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/error.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/error.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/error.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/util.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/util.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/util.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/diagnostics/src/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/host/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/host/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/host/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/host/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/host/src/reflection.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/host/src/reflection.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/host/src/reflection.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/host/src/reflection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/src/reflector.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/src/reflector.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/src/reflector.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/src/reflector.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/src/resolver.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/src/resolver.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/src/resolver.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/metadata/src/resolver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/program.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/program.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/program.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/program.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/resource_loader.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/resource_loader.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/resource_loader.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/resource_loader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/factory_generator.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/factory_generator.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/factory_generator.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/factory_generator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/host.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/host.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/host.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/host.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/summary_generator.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/summary_generator.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/summary_generator.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/summary_generator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/util.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/util.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/util.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/shims/src/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/switch/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/switch/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/switch/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/switch/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/switch/src/switch.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/switch/src/switch.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/switch/src/switch.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/switch/src/switch.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/api.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/api.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/api.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/api.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/compilation.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/compilation.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/compilation.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/compilation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/declaration.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/declaration.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/declaration.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/declaration.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/transform.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/transform.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/transform.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/transform/src/transform.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/translator/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/translator/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/translator/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/translator/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/translator/src/translator.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/translator/src/translator.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/translator/src/translator.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/translator/src/translator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/index.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/api.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/api.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/api.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/api.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/context.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/context.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/context.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/context.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/expression.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/expression.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/expression.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/expression.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/host.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/host.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/host.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/host.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/type_check_block.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/type_check_block.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/type_check_block.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/type_check_block.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/type_constructor.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/type_constructor.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/type_constructor.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/typecheck/src/type_constructor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/util/src/path.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/util/src/path.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/util/src/path.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/util/src/path.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/util/src/visitor.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/util/src/visitor.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/util/src/visitor.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/ngtsc/util/src/visitor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/perform_compile.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/perform_compile.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/perform_compile.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/perform_compile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/perform_watch.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/perform_watch.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/perform_watch.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/perform_watch.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/api.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/api.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/api.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/api.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/compiler_host.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/compiler_host.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/compiler_host.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/compiler_host.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/entry_points.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/entry_points.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/entry_points.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/entry_points.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/inline_resources.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/inline_resources.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/inline_resources.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/inline_resources.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/lower_expressions.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/lower_expressions.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/lower_expressions.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/lower_expressions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/metadata_cache.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/metadata_cache.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/metadata_cache.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/metadata_cache.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/metadata_reader.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/metadata_reader.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/metadata_reader.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/metadata_reader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/nocollapse_hack.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/nocollapse_hack.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/nocollapse_hack.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/nocollapse_hack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter_transform.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter_transform.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter_transform.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/node_emitter_transform.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/program.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/program.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/program.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_metadata_transform.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_metadata_transform.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_metadata_transform.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_metadata_transform.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_strip_decorators.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_strip_decorators.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_strip_decorators.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_strip_decorators.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_transform.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_transform.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_transform.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/r3_transform.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/tsc_pass_through.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/tsc_pass_through.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/tsc_pass_through.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/tsc_pass_through.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/util.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/util.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/util.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/transformers/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/version.d.ts" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/version.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/version.js" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/src/version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/fixer.js" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/fixer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/package.json" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/atob" afterPath="$PROJECT_DIR$/node_modules/.bin/atob" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/cssesc" afterPath="$PROJECT_DIR$/node_modules/.bin/cssesc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/errno" afterPath="$PROJECT_DIR$/node_modules/.bin/errno" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/generate-android-snapshot" afterPath="$PROJECT_DIR$/node_modules/.bin/generate-android-snapshot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/import-local-fixture" afterPath="$PROJECT_DIR$/node_modules/.bin/import-local-fixture" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/install-ns-webpack" afterPath="$PROJECT_DIR$/node_modules/.bin/install-ns-webpack" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/jsesc" afterPath="$PROJECT_DIR$/node_modules/.bin/jsesc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/json5" afterPath="$PROJECT_DIR$/node_modules/.bin/json5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/miller-rabin" afterPath="$PROJECT_DIR$/node_modules/.bin/miller-rabin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/mime" afterPath="$PROJECT_DIR$/node_modules/.bin/mime" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/ns-bundle" afterPath="$PROJECT_DIR$/node_modules/.bin/ns-bundle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/ns-upgrade-tsconfig" afterPath="$PROJECT_DIR$/node_modules/.bin/ns-upgrade-tsconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/ns-verify-bundle" afterPath="$PROJECT_DIR$/node_modules/.bin/ns-verify-bundle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/opener" afterPath="$PROJECT_DIR$/node_modules/.bin/opener" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/regjsparser" afterPath="$PROJECT_DIR$/node_modules/.bin/regjsparser" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/remove-ns-webpack" afterPath="$PROJECT_DIR$/node_modules/.bin/remove-ns-webpack" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/node_modules/.bin/rimraf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/sha.js" afterPath="$PROJECT_DIR$/node_modules/.bin/sha.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/shjs" afterPath="$PROJECT_DIR$/node_modules/.bin/shjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/sshpk-conv" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-conv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/sshpk-sign" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/sshpk-verify" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-verify" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/terser" afterPath="$PROJECT_DIR$/node_modules/.bin/terser" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/tree-kill" afterPath="$PROJECT_DIR$/node_modules/.bin/tree-kill" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/tsc" afterPath="$PROJECT_DIR$/node_modules/.bin/tsc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/tsserver" afterPath="$PROJECT_DIR$/node_modules/.bin/tsserver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" afterPath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/update-app-ng-deps" afterPath="$PROJECT_DIR$/node_modules/.bin/update-app-ng-deps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/update-ns-webpack" afterPath="$PROJECT_DIR$/node_modules/.bin/update-ns-webpack" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/node_modules/.bin/uuid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/webpack" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/webpack-bundle-analyzer" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-bundle-analyzer" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/webpack-cli" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-cli" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/which" afterPath="$PROJECT_DIR$/node_modules/.bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/.bin/shjs" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/.bin/shjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/shelljs/bin/shjs" afterPath="$PROJECT_DIR$/node_modules/@angular/compiler-cli/node_modules/shelljs/bin/shjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/acorn/bin/acorn" afterPath="$PROJECT_DIR$/node_modules/acorn/bin/acorn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/atob/bin/atob.js" afterPath="$PROJECT_DIR$/node_modules/atob/bin/atob.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cssesc/bin/cssesc" afterPath="$PROJECT_DIR$/node_modules/cssesc/bin/cssesc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/errno/cli.js" afterPath="$PROJECT_DIR$/node_modules/errno/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/import-local/fixtures/cli.js" afterPath="$PROJECT_DIR$/node_modules/import-local/fixtures/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsesc/bin/jsesc" afterPath="$PROJECT_DIR$/node_modules/jsesc/bin/jsesc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/json5/lib/cli.js" afterPath="$PROJECT_DIR$/node_modules/json5/lib/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/miller-rabin/bin/miller-rabin" afterPath="$PROJECT_DIR$/node_modules/miller-rabin/bin/miller-rabin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mime/cli.js" afterPath="$PROJECT_DIR$/node_modules/mime/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mkdirp/bin/cmd.js" afterPath="$PROJECT_DIR$/node_modules/mkdirp/bin/cmd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nativescript-angular/bin/update-app-ng-deps" afterPath="$PROJECT_DIR$/node_modules/nativescript-angular/bin/update-app-ng-deps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nativescript-dev-typescript/bin/ns-upgrade-tsconfig" afterPath="$PROJECT_DIR$/node_modules/nativescript-dev-typescript/bin/ns-upgrade-tsconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/generate-android-snapshot" afterPath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/generate-android-snapshot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/install-ns-webpack" afterPath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/install-ns-webpack" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/ns-bundle" afterPath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/ns-bundle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/ns-verify-bundle" afterPath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/ns-verify-bundle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/remove-ns-webpack" afterPath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/remove-ns-webpack" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/update-ns-webpack" afterPath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/bin/update-ns-webpack" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/node_modules/.bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/node_modules/semver/bin/semver" afterPath="$PROJECT_DIR$/node_modules/nativescript-dev-webpack/node_modules/semver/bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/opener/bin/opener-bin.js" afterPath="$PROJECT_DIR$/node_modules/opener/bin/opener-bin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regjsparser/bin/parser" afterPath="$PROJECT_DIR$/node_modules/regjsparser/bin/parser" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rimraf/bin.js" afterPath="$PROJECT_DIR$/node_modules/rimraf/bin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/semver/bin/semver" afterPath="$PROJECT_DIR$/node_modules/semver/bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sha.js/bin.js" afterPath="$PROJECT_DIR$/node_modules/sha.js/bin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/shelljs/bin/shjs" afterPath="$PROJECT_DIR$/node_modules/shelljs/bin/shjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sshpk/bin/sshpk-conv" afterPath="$PROJECT_DIR$/node_modules/sshpk/bin/sshpk-conv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sshpk/bin/sshpk-sign" afterPath="$PROJECT_DIR$/node_modules/sshpk/bin/sshpk-sign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sshpk/bin/sshpk-verify" afterPath="$PROJECT_DIR$/node_modules/sshpk/bin/sshpk-verify" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/terser/bin/uglifyjs" afterPath="$PROJECT_DIR$/node_modules/terser/bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tree-kill/cli.js" afterPath="$PROJECT_DIR$/node_modules/tree-kill/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/bin/tsc" afterPath="$PROJECT_DIR$/node_modules/typescript/bin/tsc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/bin/tsserver" afterPath="$PROJECT_DIR$/node_modules/typescript/bin/tsserver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uglify-es/bin/uglifyjs" afterPath="$PROJECT_DIR$/node_modules/uglify-es/bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uuid/bin/uuid" afterPath="$PROJECT_DIR$/node_modules/uuid/bin/uuid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/bin/analyzer.js" afterPath="$PROJECT_DIR$/node_modules/webpack-bundle-analyzer/lib/bin/analyzer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack-cli/bin/cli.js" afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/bin/webpack.js" afterPath="$PROJECT_DIR$/node_modules/webpack/bin/webpack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/which/bin/which" afterPath="$PROJECT_DIR$/node_modules/which/bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app-routing.module.js" afterPath="$PROJECT_DIR$/src/app/app-routing.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.js" afterPath="$PROJECT_DIR$/src/app/app.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.ts" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/home/home.component.css" afterPath="$PROJECT_DIR$/src/app/home/home.component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/home/home.component.html" afterPath="$PROJECT_DIR$/src/app/home/home.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/sidedrawer/sidedrawer.component.html" afterPath="$PROJECT_DIR$/src/app/sidedrawer/sidedrawer.component.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -408,11 +98,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/home/home.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="30" column="93" lean-forward="false" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
+            <state relative-caret-position="326">
+              <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/home/home.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -421,21 +121,31 @@
       <file leaf-file-name="home.component.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/home/home.component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="144">
+              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+            <state relative-caret-position="382">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -445,6 +155,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Preview</find>
+      <find>RadSideDrawer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -461,19 +172,19 @@
         <option value="$PROJECT_DIR$/src/app/item/items.component.ts" />
         <option value="$PROJECT_DIR$/src/app/item/item-detail.component.html" />
         <option value="$PROJECT_DIR$/src/app/item/item.module.ts" />
-        <option value="$PROJECT_DIR$/src/app/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/src/app/home/home.component.ts" />
         <option value="$PROJECT_DIR$/src/app/home/home.module.ts" />
         <option value="$PROJECT_DIR$/src/app/sidedrawer/sidedrawer.component.ts" />
         <option value="$PROJECT_DIR$/src/app/sidedrawer/sidedrawer.component.css" />
-        <option value="$PROJECT_DIR$/src/app/sidedrawer/sidedrawer.component.html" />
         <option value="$PROJECT_DIR$/src/app/bottomnav/bottomnav.component.ts" />
         <option value="$PROJECT_DIR$/src/app/bottomnav/bottomnav.component.html" />
         <option value="$PROJECT_DIR$/src/app/bottomnav/bottomnav.component.css" />
-        <option value="$PROJECT_DIR$/src/app/home/home.component.css" />
         <option value="$PROJECT_DIR$/src/app/item/items.component.html" />
-        <option value="$PROJECT_DIR$/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/src/app/home/home.component.css" />
+        <option value="$PROJECT_DIR$/src/app/sidedrawer/sidedrawer.component.html" />
+        <option value="$PROJECT_DIR$/src/app/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/home/home.component.html" />
       </list>
     </option>
   </component>
@@ -523,12 +234,6 @@
               <item name="mob-devace" type="b2602c69:ProjectViewProjectNode" />
               <item name="mob-devace" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="mob-devace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mob-devace" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -692,19 +397,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34358000" />
+    <option name="totallyTimeSpent" value="42957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1973" y="-4" width="1867" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26666668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43870968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26908293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27347612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -712,6 +418,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -851,13 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
@@ -901,20 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/sidedrawer/sidedrawer.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/sidedrawer/sidedrawer.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/item/item-detail.component.html" />
     <entry file="file://$PROJECT_DIR$/src/assets/img/png/menu.png" />
     <entry file="file://$PROJECT_DIR$/src/app/bottomnav/bottomnav.component.html">
@@ -924,13 +610,6 @@
           <folding>
             <marker date="1551700925117" expanded="true" signature="66:749" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -957,30 +636,6 @@
     <entry file="file://$PROJECT_DIR$/src/app/item/item.service.ts" />
     <entry file="file://$PROJECT_DIR$/src/app/item/items.component.html" />
     <entry file="file://$PROJECT_DIR$/src/app/item/item.module.js" />
-    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="30" column="93" lean-forward="false" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -993,19 +648,74 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/sidedrawer/sidedrawer.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/sidedrawer/sidedrawer.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <element signature="e#107#183#0" expanded="true" />
+            <element signature="n#style#0;n#Label#8;n#StackLayout#0;n#ScrollView#0;n#StackLayout#0;n#RadSideDrawer#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="382">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>

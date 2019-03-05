@@ -5,12 +5,12 @@
 }
 
 .btn-nav {
-    background-image: url("~/assets/img/png/logo.png");
+    background-image: url('~/assets/img/png/logo.png');
     background-repeat: no-repeat;
 }
 
 .logo {
-    background-image: url("~/assets/img/png/menu-button.png");
+    background-image: url('~/assets/img/png/menu-button.png');
     background-repeat: no-repeat;
 }
 

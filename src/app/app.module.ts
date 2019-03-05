@@ -1,11 +1,12 @@
-import { NgModule, NO_ERRORS_SCHEMA } from "@angular/core";
-import { NativeScriptModule } from "nativescript-angular/nativescript.module";
+import { NgModule, NO_ERRORS_SCHEMA } from '@angular/core';
+import { NativeScriptModule } from 'nativescript-angular/nativescript.module';
 import { AppRoutingModule } from "./app-routing.module";
 import { AppComponent } from "./app.component";
 import { HomeComponent } from './home/home.component';
-import {NativeScriptUISideDrawerModule} from "nativescript-ui-sidedrawer/angular";
+import {NativeScriptUISideDrawerModule} from 'nativescript-ui-sidedrawer/angular';
 import { SidedrawerComponent } from './sidedrawer/sidedrawer.component';
 import { BottomnavComponent } from './bottomnav/bottomnav.component';
+import {YoutubePlayerModule} from 'nativescript-youtubeplayer/angular';
 
 
 
@@ -23,6 +24,7 @@ import { BottomnavComponent } from './bottomnav/bottomnav.component';
         NativeScriptModule,
         AppRoutingModule,
         NativeScriptUISideDrawerModule,
+        // YoutubePlayerModule
 
     ],
     declarations: [
